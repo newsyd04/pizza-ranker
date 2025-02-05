@@ -9,7 +9,7 @@ function HomePage() {
       <Spotlight />
       <div className="p-4 max-w-7xl mx-auto relative z-50 w-full text-center">
         <h1 className="text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-300 bg-opacity-50">
-          PIZZA RANKR
+          PIZZA RANKER
         </h1>
         <Link
           to="/rankings"
